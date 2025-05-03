@@ -15,7 +15,6 @@ Welcome to an epic webcam-based game where your hand gestures bring the classic 
 
 ## 📂 Project Structure
 
-```
 VisionBasedRockPaperScissorsGame/
 ├── assets/
 │   └── seguiemj.ttf          # Emoji font (e.g., Segoe UI Emoji)
@@ -26,7 +25,6 @@ VisionBasedRockPaperScissorsGame/
 │   └── main.py             # The heart of the game
 ├── README.md                # You're reading it!
 └── requirements.txt         # Python dependencies
-```
 
 ## 🛠️ Get Started
 
